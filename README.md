@@ -1,6 +1,4 @@
-# Package-Installation
-
-# 🧰 My Scientific Software Stack
+# 🧰 Package-Installation
 
 This repository documents the key scientific software packages, tools, and libraries I’ve used across various projects — especially those with non-trivial or messy installation procedures. It serves both as a personal reference and as a guide for others working on similar problems.
 
